@@ -1,0 +1,11 @@
+<Event>
+	<Identification>
+		<SystemName>Meeting Room 1</SystemName>
+		<IPAddress>192.168.10.2</IPAddress>
+	</Identification>
+	
+	<Button>
+		<Name>hand</Name>
+		<Value>up</Value>
+	</Button>
+</Event>
